@@ -1,0 +1,18 @@
+
+# Python environment and cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Dataset and extracted frames
+dataset/
+!dataset/README.md
+
+# Temporary files
+*.log
+.DS_Store
+.vscode/
+
+# Keep project code, trained models, and results available

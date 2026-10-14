@@ -1,0 +1,12 @@
+Test accuracy: 0.2716
+Macro F1: 0.3441
+
+               precision    recall  f1-score   support
+
+        alert       0.24      0.20      0.22       123
+low_vigilance       0.05      0.08      0.06        60
+       drowsy       1.00      0.60      0.75        60
+
+     accuracy                           0.27       243
+    macro avg       0.43      0.30      0.34       243
+ weighted avg       0.38      0.27      0.31       243
